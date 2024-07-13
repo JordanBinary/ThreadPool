@@ -1,2 +1,0 @@
-# ThreadPool
-C++ ThreadPool
